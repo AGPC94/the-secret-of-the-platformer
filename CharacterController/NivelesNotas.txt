@@ -1,0 +1,17 @@
+Nivel 1
+-CubeMove
+-CubeMoveRotation
+
+Nivel 2
+-PlatformRotationLeft
+-PlatformRotationRight
+
+Nivel 3
+-RectangleRotation
+-StarRotation
+
+Nivel 4
+-Salient
+-GearRotation
+
+
